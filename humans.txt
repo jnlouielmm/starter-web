@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jan Louie Lim	jnlouielmm@gmail.com	@jnlImm
 
 # THANKS
 
